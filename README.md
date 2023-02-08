@@ -1,6 +1,10 @@
 ### Under construction 🚧 
 (i just need to schedule that task on my Trello)
 
+instagram: @guilhermefaj
+Linkein: https://www.linkedin.com/in/guilherme-junqueira-1280131b1/
+email: '[figueiredoguiu@gmail.com](<a href="mailto:figueiredoguiu@gmail.com">Enviar e-mail</a>)'
+
 <!--
 **guilhermefaj/guilhermefaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
