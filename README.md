@@ -2,7 +2,9 @@
 (i just need to schedule that task on my Trello)
 
 instagram: @guilhermefaj
+
 Linkein: https://www.linkedin.com/in/guilherme-junqueira-1280131b1/
+
 email: <a href="mailto:figueiredoguiu@gmail.com">figueiredoguiu@gmail.com</a>)
 
 <!--
