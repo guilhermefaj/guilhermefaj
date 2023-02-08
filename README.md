@@ -1,7 +1,7 @@
 ### Under construction 🚧 
 (i just need to schedule that task on my Trello)
 
-instagram: @guilhermefaj
+instagram: <a href="https://www.instagram.com/guilhermefaj/">@guilhermefaj</a>
 
 Linkein: <a href="https://www.linkedin.com/in/guilherme-junqueira-1280131b1/">Guilherme Junqueira</a>
 
