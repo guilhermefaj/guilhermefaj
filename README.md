@@ -3,9 +3,9 @@
 
 instagram: @guilhermefaj
 
-Linkein: https://www.linkedin.com/in/guilherme-junqueira-1280131b1/
+Linkein: <a href="https://www.linkedin.com/in/guilherme-junqueira-1280131b1/">Guilherme Junqueira</a>
 
-email: <a href="mailto:figueiredoguiu@gmail.com">figueiredoguiu@gmail.com</a>)
+email: <a href="mailto:figueiredoguiu@gmail.com">figueiredoguiu@gmail.com</a>
 
 <!--
 **guilhermefaj/guilhermefaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
