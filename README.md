@@ -3,7 +3,7 @@
 
 instagram: @guilhermefaj
 Linkein: https://www.linkedin.com/in/guilherme-junqueira-1280131b1/
-email: '[figueiredoguiu@gmail.com](<a href="mailto:figueiredoguiu@gmail.com">Enviar e-mail</a>)'
+email: <a href="mailto:figueiredoguiu@gmail.com">figueiredoguiu@gmail.com</a>)
 
 <!--
 **guilhermefaj/guilhermefaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
