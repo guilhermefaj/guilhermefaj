@@ -3,7 +3,7 @@
 
 instagram: <a href="https://www.instagram.com/guilhermefaj/">@guilhermefaj</a>
 
-Linkein: <a href="https://www.linkedin.com/in/guilherme-junqueira-1280131b1/">Guilherme Junqueira</a>
+LinkedIn: <a href="https://www.linkedin.com/in/guilherme-junqueira-1280131b1/">Guilherme Junqueira</a>
 
 email: <a href="mailto:figueiredoguiu@gmail.com">figueiredoguiu@gmail.com</a>
 
