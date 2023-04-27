@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Olá! Eu sou o Guilherme Junqueira 👋</h1>
-    <h3>👨‍🌾Um ribeirinho na programação</h3>
+    <h3>👨‍🌾 Um ribeirinho na programação</h3>
 </div>
 
 Gosto de estudar desde que me conheço por gente e desde então nunca parei, nem pretendo parar. Sou uma pessoa empolgada por natureza e as possibilidades da programação me encantaram desde que vi Python a primeira vez na Universidade. Decidi que era aí que eu iria trazer valor ao mundo.
@@ -10,7 +10,7 @@ Gosto de estudar desde que me conheço por gente e desde então nunca parei, nem
 - 🎭 Teatro: Faço curso de teatro e adoro a sensação de subir ao palco.
 - ⛸ Patinação: Aprendendo a levantar a cada queda com meus patins.
 - 🎲 Jogos de tabuleiro: Sou entusiasta de jogos de tabuleiro e adoro passar horas jogando com amigos.
-- 👵 Trabalho voluntário: Faço trabalho voluntário com idosos, e adoro incluir jogos de tabuleiro nas atividades.
+- 👵 Trabalho voluntário: Criei uma oficina de jogos para ajudar no desenvolvimento cognitivo dos idosos.
 
 <div align="center">
   <h1>Minhas tecnologias 🔧</h1>
